@@ -1,0 +1,30 @@
+body { 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(25, 25, 26);
+    color: rgb(17, 17, 17);
+    margin-top: 100px;
+}
+h1 {
+    margin: 15px 0;
+}
+
+h2 {
+    margin: 0;
+    font-weight: 100;
+}
+.card {
+    background-color: #9107a3;
+    border-radius: 15px;
+    margin: 0 auto;
+    width: 400px;
+    text-align: center;
+    box-shadow: rgba(0,0,0 0.1) 0 0px 20px;
+    border: 4px solid rgb(238, 89, 176);
+}
+
+.Sounds {
+    margin: 20;
+    padding: 0;
+    list-style-type: none;
+    text-align: center;
+}
